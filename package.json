@@ -1,6 +1,6 @@
 {
   "name": "use-is-browser-idle",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^17.0.2",
     "ts-loader": "^8.0.17",
