@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "rootDir": "src",
+    "outDir": "lib",
+    "target": "es5",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "strict": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

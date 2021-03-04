@@ -1,0 +1,24 @@
+{
+  "name": "use-is-browser-idle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.2.2",
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "@types/requestidlecallback": "^0.3.1",
+    "react": "^17.0.1",
+    "requestidlecallback": "^0.3.0"
+  }
+}
